@@ -3,7 +3,5 @@
  * @return {string}
  */
 var toLowerCase = function(s) {
-    let uppercase= s.toLowerCase();
-    return uppercase;
-    
+    return uppercase= s.toLowerCase();  
 };
