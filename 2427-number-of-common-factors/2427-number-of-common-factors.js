@@ -5,7 +5,8 @@
  */
 var commonFactors = function(a, b) {
     let count=0;
-    for(i=1; i<=9; i++)
+    let n=Math.min(a,b)
+    for(let i=1; i<=n; i++)
     {
         if(a % i==0 && b % i==0)
         count=count+1;
