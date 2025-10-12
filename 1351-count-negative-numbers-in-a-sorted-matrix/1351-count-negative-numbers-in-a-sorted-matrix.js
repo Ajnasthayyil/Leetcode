@@ -3,7 +3,7 @@
  * @return {number}
  */
 var countNegatives = function(grid) {
-    let arr=grid.toString().split(",");
+    let arr=grid.flat();
     let count=0;
     for( const key of arr)
     {
