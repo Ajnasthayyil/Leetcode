@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Ajnasthayyil/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Ajnasthayyil/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/Ajnasthayyil/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1251-average-selling-price](https://github.com/Ajnasthayyil/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Ajnasthayyil/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
